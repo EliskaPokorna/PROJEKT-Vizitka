@@ -68,11 +68,15 @@ p{
     border-radius: 5px;
 }
 
-.twitter:hover{
+.twitter:hover
+.twitter:focus,
+.twitter:active{
     background-color: #0b7bc1;
 }
 
-.facebook:hover{
+.facebook:hover,
+.facebook:focus,
+.facebook:active{
     background-color: #2b406e;
 }
 
